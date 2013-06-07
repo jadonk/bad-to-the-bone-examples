@@ -1,7 +1,7 @@
-bad-to-the-bone-examples
-========================
+Bad to the Bone
+===============
 
-Code examples in _Bad to the Bone_
+Code examples from
 
 [Bad to the Bone: Crafting Electronics Systems with Beaglebone and BeagleBone Black](https://www.amazon.com/dp/1627051376/ref=as_li_ss_til?tag=bloghanerhead-20&camp=0&creative=0&linkCode=as4&creativeASIN=1627051376&adid=18HMQH5WC5MSYCGY32QD&)
 by Steven Barrett and Jason Kridner
